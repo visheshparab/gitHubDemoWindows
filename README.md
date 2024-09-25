@@ -30,3 +30,7 @@ Developer: Vishesh Parab
 
 9. Add all files which are modified and created new
    git add .
+
+10. save all files and changes on git
+    git commit -m 'message'
+    Example: git commit -m '10 new command added in readme.md file, and created new file index.html'
