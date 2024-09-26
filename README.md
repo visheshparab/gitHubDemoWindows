@@ -34,3 +34,6 @@ Developer: Vishesh Parab
 10. save all files and changes on git
     git commit -m 'message'
     Example: git commit -m '10 new command added in readme.md file, and created new file index.html'
+
+11. push code from local machine to git hub repository
+    git push origin main
